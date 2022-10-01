@@ -1,5 +1,3 @@
 # Regret
 
----
-
 To do.

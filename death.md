@@ -1,5 +1,3 @@
 # Death
 
----
-
 To do.
