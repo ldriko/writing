@@ -1,3 +1,0 @@
-# Regret
-
-To do...
